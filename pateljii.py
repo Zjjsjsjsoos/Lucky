@@ -1,5 +1,5 @@
 # Bot token and admin ID
-TOKEN = "7915229015:AAFPv6esbnwmxhyLFDf0-2oaeDCrTm3gnXw"  # Bot Token
+TOKEN = "7463116469:AAGDZufcxYygwtU7qN_ok-xptdNN39TE6Z0"  # Bot Token
 ADMIN_ID = 7431484129  # Admin ID
 
 # Messages
